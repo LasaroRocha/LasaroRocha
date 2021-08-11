@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @LasaroRocha
-- 👀 Gosto de programar, jogar RPGs e ouvir música
+- 👀 Gosto de programar em C++, jogar RPGs e ouvir música
 - 🌱 Atualmente estou aprendendo C#
 
 <!---
